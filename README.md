@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becoming web3 dev
+- 🌱 I’m currently learning solidity
+- ⚡ Fun fact: I can speak English, Romanian & Korean
+
 <!--
 **eddyiskongz/eddyiskongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
